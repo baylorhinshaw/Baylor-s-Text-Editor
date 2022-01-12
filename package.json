@@ -1,0 +1,19 @@
+{
+  "name": "baylors-text-editor",
+  "version": "1.0.0",
+  "description": "With this text editor, you should be able to create notes or code snippets with or without an internet connection so that you can use it later.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baylorhinshaw/Baylors-Text-Editor.git"
+  },
+  "author": "Baylor Hinshaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baylorhinshaw/Baylors-Text-Editor/issues"
+  },
+  "homepage": "https://github.com/baylorhinshaw/Baylors-Text-Editor#readme"
+}

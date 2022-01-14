@@ -33,8 +33,8 @@ module.exports = () => {
         name: 'baylors-text-editor',
         short_name: 'bte',
         description: 'With this text editor, you should be able to create notes or code snippets with or without an internet connection so that you can use it later.',
-        background_color: '#225ca3',
-        theme_color: '#225ca3',
+        background_color: '#FFE4C4',
+        theme_color: '#FFE4C4',
         start_url: '/',
         publicPath: '/',
         icons: [
